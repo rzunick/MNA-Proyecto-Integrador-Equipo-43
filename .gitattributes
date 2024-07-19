@@ -1,2 +1,6 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 .zip filter=lfs diff=lfs merge=lfs -text
+coco_color_full_2.zip filter=lfs diff=lfs merge=lfs -text
+coco_color_full_1.zip filter=lfs diff=lfs merge=lfs -text
+coco_color_sample.zip filter=lfs diff=lfs merge=lfs -text
+coco_color_sample_balanced.zip filter=lfs diff=lfs merge=lfs -text
